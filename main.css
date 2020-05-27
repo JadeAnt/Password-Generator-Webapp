@@ -1,0 +1,63 @@
+body{
+    background: url('images/PassG-Background.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1,p{
+    text-align: center;
+}
+
+.container{
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.show-password{
+    margin-top: 50px;
+    line-height: 55px;
+    text-align: center;
+    border: none;
+    font-size: 50px;
+    background-color: transparent;
+}
+
+input{
+    text-decoration: none;
+}
+
+input:active{
+    outline: none;
+}
+  
+input:focus{
+    outline: none;
+}
+
+.pas-button{
+    background:  #0000CD;
+    font-size: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 250ms ease;
+    color: white;
+    display: block;
+    padding: 15px 25px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    margin-top: 50px;
+    margin-left: 190px;
+}
+
+.pas-button:hover{
+    background: #EE82EE;
+}
