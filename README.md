@@ -1,7 +1,8 @@
 # Password-Generator-Webapp
 A simple webapp that generates a random password for you with uppercase and lowercase letters, symbols, and numbers.
 
-Note: See my Random Password Generator made in C++ for something similar in terminal here:
+Note: See my Random Password Generator made in C++ for something similar in terminal here
+
 https://github.com/JadeAnt/Random-Password-Generator
 
 # Description
